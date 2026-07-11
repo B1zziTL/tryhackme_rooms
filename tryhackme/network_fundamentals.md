@@ -20,5 +20,5 @@ Types of networks = private / public
 
 
 * *ICMP* = Internet Control Message Protocol
-* ```ping``` = time taken travelling between devices
+* ```$ ping``` = time taken travelling between devices
 
